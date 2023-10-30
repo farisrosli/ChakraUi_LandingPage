@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.chakra-ui-container {
+  max-width: 960px;
+  margin: 0 auto;
+}
